@@ -1,7 +1,7 @@
 # Backend REACT 8.0
 
-![GitHub repo size](https://img.shields.io/github/repo-size/juanfariastk/Back-App-Reservas?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/juanfariastk/Portfolio-React?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/juanfariastk/React-8.0-Back?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/juanfariastk/React-8.0-Back?style=for-the-badge)
 
 ## Estrutura:
 - Routes -> boxes - files
