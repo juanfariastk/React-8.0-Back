@@ -1,4 +1,4 @@
-# Backend REACT 8.0
+# Backend React 8.0
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/juanfariastk/React-8.0-Back?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/juanfariastk/React-8.0-Back?style=for-the-badge)
